@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @creatoy
-- 👀 I’m interested computer sience.
+- 👀 I’m interested computer science.
 - 🌱 I’m currently learning rust.
+<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
+--->
 
 <!---
 creatoy/creatoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
